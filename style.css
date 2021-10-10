@@ -1,0 +1,156 @@
+#navbarBrand{
+    width: 50px;
+    height: 50px;
+}
+
+.nav-link{
+    font-size: large;
+}
+
+.carouselImage{
+    width: 300px;
+    height: 500px;
+}
+
+.carousel-item{
+    height: 500px;
+}
+
+.header-text1 {
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    right: auto;
+    width: 96.66666666666666%;
+    color:green;
+}
+
+.header-text1 h2 {
+    font-size: 40px;
+}
+
+.header-text1 h2 span {
+    
+	padding: 10px;
+}
+
+.header-text1 h3 span {
+	
+	padding: 15px;
+}
+
+.header-text2 {
+    position: absolute;
+    top: 20%;
+    left: 1.8%;
+    right: auto;
+    width: 96.66666666666666%;
+    color:green;
+}
+
+.header-text2 h2 {
+    font-size: 40px;
+    margin-top: 55px;
+}
+
+.header-text2 h2 span {
+    
+	padding: 10px;
+    
+}
+
+.header-text2 h3 span {
+	
+	padding: 15px;
+}
+
+.carousel-control-prev span, .carousel-control-next span{
+background-color: green;
+}
+
+.footer{
+  background-color:#BDFFA4;
+  width: 100%;
+  position: absolute;
+}
+
+#logoImage{
+    height: 100px;
+    width: 100px;
+}
+
+#aboutUsBanner{
+    width: 100%;
+    height: 500px;
+}
+
+#aboutUsText{
+    text-align: justify;
+    max-width: 400px;
+    margin-top: 20px;
+}
+
+.aboutUsImage{
+    width: 50px;
+    height: 50px;
+}
+
+.locationText{
+    min-width: 250px;
+    text-align: justify;
+}
+
+#packages{
+    
+    color: green;
+}
+
+.card{
+    height: 500px;
+    width: 250px;
+}
+
+.card-img-top{
+    height: 250px;
+    width: 250px;
+}
+
+#aboutUsHeader{
+    color: green;
+}
+
+#aboutUsImage{
+    width: 300px;
+    height: 300px ;
+}
+
+#aboutUsDescription{
+    max-width: 500px;
+    text-align: justify;
+}
+
+.profileImage{
+    border-radius: 50%;
+}
+
+.profileDescription{
+    background-color:honeydew;
+
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+#portfolioHeader{
+    color: green;
+    background-color: honeydew;
+}
+
+#ContactHeader{
+    color: green;
+    background-color: honeydew;
+}
